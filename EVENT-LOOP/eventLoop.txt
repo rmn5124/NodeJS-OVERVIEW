@@ -1,0 +1,8 @@
+// The event loop is what allows Node.js to perform non-blocking I/O operations — 
+//despite the fact that JavaScript is single-threaded — 
+//by offloading operations to the system kernel whenever possible.
+// SOME RESOURCES to UNDERTSND EVENT-LOOP
+//https://nodejs.dev/learn/the-nodejs-event-loop
+//https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf
+//https://www.youtube.com/watch?v=PNa9OMajw9w&ab_channel=node.js
+
